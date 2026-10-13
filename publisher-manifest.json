@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e4b8842bb60ea68174d2473e",
+  "owner": "kkhyjvctj",
+  "repo": "page-b031cce2652106f495a0d6cf",
+  "title": "机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b031cce2652106f495a0d6cf",
+      "a": "机场推荐",
+      "b": "",
+      "entity": "机场推荐",
+      "brand": "机场推荐",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7ce93430d7ad87e9df7d45d381a0e6bb22ac50b51ee4743ae90280ea4c61f56a",
+      "content": {
+        "keyword1": "机场推荐",
+        "keyword2": "",
+        "primary_entity": "机场推荐",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场推荐为您提供专业VPN机场订阅服务和客户端下载，支持高速节点加速网络，解锁全球流媒体平台。",
+          "AI_DESCRIPTION": "机场推荐为您提供专业VPN机场订阅服务和客户端下载，支持高速节点加速网络，解锁全球流媒体平台。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            line-height: 1.6;\n            margin: 0;\n            padding: 0;\n            background-color: #f8f5f0;\n            color: #333;\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        header {\n            background-color: #fff;\n            padding: 20px;\n            text-align: center;\n            border-bottom: 3px solid #228B22;\n        }\n        h1 {\n            color: #006400;\n            font-size: 2.5em;\n            margin: 0;\n        }\n        nav {\n            background-color: #fff;\n            padding: 10px 0;\n            border-bottom: 1px solid #ddd;\n        }\n        nav a {\n            margin: 0 15px;\n            color: #228B22;\n            text-decoration: none;\n            font-size: 0.95em;\n        }\n        main {\n            padding: 20px;\n        }\n        section {\n            margin-bottom: 30px;\n        }\n        h2 {\n            color: #006400;\n            border-bottom: 2px solid #228B22;\n            padding-bottom: 10px;\n            font-size: 1.6em;\n        }\n        .card {\n            background: white;\n            border: 2px solid #228B22;\n            border-radius: 12px;\n            padding: 20px;\n            margin: 15px 0;\n            box-shadow: 0 4px 6px rgba(0,0,0,0.1);\n        }\n        .price {\n            font-size: 1.8em;\n            color: #006400;\n            font-weight: bold;\n        }\n        .annual {\n            color: #666;\n            font-size: 0.9em;\n        }\n        .features {\n            list-style: none;\n            padding: 0;\n        }\n        .features li {\n            padding: 8px 0;\n            border-bottom: 1px dashed #ddd;\n        }\n        details {\n            margin: 15px 0;\n        }\n        summary {\n            font-size: 1.1em;\n            color: #006400;\n            cursor: pointer;\n            font-weight: bold;\n        }\n        footer {\n            text-align: center;\n            padding: 20px;\n            background: #fff;\n            color: #666;\n            font-size: 0.9em;\n        }\n        @media (max-width: 600px) {\n            h1 {font-size: 2em;}\n            nav a {margin: 0 10px;}\n        }\n    </style>\n\n\n    <header>\n        <h1>机场推荐</h1>\n        <p>专业VPN机场订阅与客户端下载</p>\n    </header>\n    <nav>\n        <a href=\"#intro\">品牌简介</a>\n        <a href=\"#scenarios\">使用场景</a>\n        <a href=\"#plans\">订阅套餐</a>\n        <a href=\"#config\">配置流程</a>\n        <a href=\"#download\">客户端下载</a>\n        <a href=\"#faq\">常见问题</a>\n    </nav>\n    <main>\n        <section id=\"intro\">\n            <h2>品牌简介</h2>\n            <p>机场推荐是一个专注提供高质量VPN服务的平台。我们通过先进的节点池和技术，帮助用户轻松突破网络限制，享受安全、快速的全球网络加速。无论您是个人用户还是企业团队，我们都提供定制化的解决方案。</p>\n        </section>\n        <section id=\"scenarios\">\n            <h2>使用场景</h2>\n            <p>机场推荐适用于以下场景：</p>\n            <ul>\n                <li>流媒体解锁：Netflix、YouTube、Disney+ 等</li>\n                <li>游戏加速：支持IPLC专线优化游戏延迟</li>\n                <li>隐私保护：加密传输，隐藏真实IP</li>\n                <li>多设备使用：同时在线连接不同设备</li>\n            </ul>\n        </section>\n        <section id=\"plans\">\n            <h2>订阅套餐</h2>\n            <div class=\"card\">\n                <h3>基础版</h3>\n                <p class=\"price\">¥15/月</p>\n                <p class=\"annual\">按年付仅需 ¥150/年</p>\n                <ul class=\"features\">\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n            </div>\n            <div class=\"card\">\n                <h3>旗舰版</h3>\n                <p class=\"price\">¥35/月</p>\n                <p class=\"annual\">按年付仅需 ¥350/年</p>\n                <ul class=\"features\">\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n            </div>\n            <div class=\"card\">\n                <h3>团队版</h3>\n                <p class=\"price\">¥85/月</p>\n                <p class=\"annual\">按年付仅需 ¥850/年</p>\n                <ul class=\"features\">\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n            </div>\n        </section>\n        <section id=\"config\">\n            <h2>配置流程</h2>\n            <ol>\n                <li>选择合适的套餐并完成支付</li>\n                <li>通过官网或邮箱获取订阅链接或激活码</li>\n                <li>下载并安装对应客户端</li>\n                <li>登录账号并配置节点</li>\n                <li>选择高速节点并一键连接</li>\n            </ol>\n        </section>\n        <section id=\"download\">\n            <h2>客户端下载</h2>\n            <p>我们提供多种操作系统客户端下载：</p>\n            <ul>\n                <li>Windows: <a href=\"#\">点击下载</a></li>\n                <li>Mac: <a href=\"#\">点击下载</a></li>\n                <li>Android: <a href=\"#\">点击下载</a></li>\n                <li>iOS: <a href=\"#\">点击下载</a></li>\n            </ul>\n            <p>官方下载地址： <a href=\"#\">https://机场推荐.com/download</a></p>\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是机场？</summary>\n                <p>机场指的是VPN代理服务提供商，在中文网络社区中，“机场”常指提供节点订阅的加速服务，帮助用户访问被屏蔽的网站或解锁流媒体。</p>\n            </details>\n            <details>\n                <summary>如何订阅机场？</summary>\n                <p>选择套餐支付后，我们会通过邮箱或官网提供订阅链接，您可以直接导入客户端进行使用。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>基础版支持3台，旗舰版5台，团队版20台设备同时在线，具体以套餐为准。</p>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <p>在官网下载页面或通过订阅链接引导下载，我们提供Windows、Mac、Android、iOS和浏览器插件等多种客户端。</p>\n            </details>\n            <details>\n                <summary>节点质量如何？</summary>\n                <p>我们拥有高速IPLC专线节点池，提供稳定的线路，适合日常使用和游戏加速。</p>\n            </details>\n            <details>\n                <summary>有客服支持吗？</summary>\n                <p>旗舰版以上提供7x24工单支持，团队版有专属客户经理。</p>\n            </details>\n            <details>\n                <summary>流量用量如何计算？</summary>\n                <p>流量按每月累计使用，超出部分可能限速，建议根据使用场景选择套餐。</p>\n            </details>\n            <details>\n                <summary>支持流媒体解锁吗？</summary>\n                <p>旗舰版及以上支持Netflix、YouTube等主流平台原生解锁。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 机场推荐 官方服务</p>\n        <p>如有疑问，请联系客服</p>\n    </footer>\n\n",
+          "hash": "f1cc948c841654a30ffe6c8c0bec1a8bae3f1cde35b09161eaa0cf63872e885f",
+          "seo": {
+            "title": "机场推荐 - 优质VPN机场订阅与客户端下载",
+            "keywords": "机场推荐, VPN机场, 机场订阅, 客户端下载, 网络加速器, 流媒体解锁",
+            "description": "机场推荐为您提供专业VPN机场订阅服务和客户端下载，支持高速节点加速网络，解锁全球流媒体平台。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "snivljj.cn",
+    "host": "p-93f85f46b6.snivljj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "1bf5f74b5c37986a96e8a0101020aac0cec861e01ff23b9958f9918afa237e93",
+    "sitemap.xml": "c2bfcbe2453856a3adeb3a42cb20fb19343f14b83480821ee6328046a38c4f97",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "503823a1c05c605051e023621d80a10b9febffb6b1488ee38108bc699804cfc2",
+    "robots.txt": "eb71a875df34a846e30848564aeeed093136079003960fe0bb0f718f83c23135",
+    "ef723e79f2426c6e61d06fb5cf02bb03.txt": "0c9347a7c4c5180c95a3fa8f65a9e3d2b8a87f509b7a5a253bc7cb219c21a632"
+  },
+  "revision": "8886e4ee3a76cf1b900ba659a804e9d3c0b292dbb1defa5bbe5d14e8d5d45901"
+}
